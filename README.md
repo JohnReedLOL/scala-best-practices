@@ -81,4 +81,4 @@ Open an issue to make suggestions, or create a pull request ;-)
 ---
 
 Copyright &copy; 2015-2016, Some Rights Reserved.<br />
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
